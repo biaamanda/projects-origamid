@@ -1,0 +1,6 @@
+@import "./global.css";
+@import "./header.css";
+
+.img-header {
+  width: 100px;
+}
